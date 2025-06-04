@@ -42,3 +42,10 @@ Over the past 4 years, I’ve focused on web/software development and scripting 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
+🔗 Links
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=github&logoColor=white)](https://github.com/Raym-z)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-willy-tanumihardja-939983301/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raymondwillytan@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raym-z)
+
+
