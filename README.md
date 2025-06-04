@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 My name is Raymond Willy Tanumihardja
+===========================================
 
-<!--
-**Raym-z/Raym-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student studying at Binus University.
+------------------------------------------------------
 
-Here are some ideas to get you started:
+Over the past 4 years, I’ve focused on web/software development and scripting using Python and Lua. I’m passionate about exploring different programming languages and diving into real-world applications of AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Jakarta, Indonesia
+* ✉️  You can contact me at [raymondwillytan@gmail.com](mailto:raymondwillytan@gmail.com)
+* 🧠  I'm learning Python, Lua, Javascript
+* 🤝  I'm open to collaborating on Web development, AI, and creating software applications
+* ⚡  I enjoy automating everyday tasks with my code
