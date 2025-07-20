@@ -8,7 +8,7 @@ Over the past 4 years, I’ve focused on web/software development and scripting 
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [raymondwillytan@gmail.com](mailto:raymondwillytan@gmail.com)
-* 🧠  I'm learning Python, Lua, Javascript
+* 🧠  I'm learning Python, Lua, Javascript, React & many more
 * 🤝  I'm open to collaborating on Web development, AI, and creating software applications
 * ⚡  I enjoy automating everyday tasks with my code
 
