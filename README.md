@@ -2,7 +2,7 @@ Hi 👋 There
 ===========================================
 🚀 About Me
 ------------------------------------------------------
-I am Raymond Willy Tanumihardja, Computer Science student studying at Binus University.
+I am Raymond Willy Tanumihardja, Computer Science graduate at Binus University.
 
 Over the past 4 years, I’ve focused on web/software development and scripting using Python and Lua. I’m passionate about exploring different programming languages and diving into real-world applications of AI and machine learning. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly.
 
